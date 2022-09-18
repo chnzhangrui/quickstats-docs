@@ -10,4 +10,4 @@ https://docs.readthedocs.io/en/stable/tutorial/
 
 Doc for this project:
 
-https://pchain-doc.readthedocs.io/en/latest/
+https://quickstats-docs.readthedocs.io/en/latest/index.html

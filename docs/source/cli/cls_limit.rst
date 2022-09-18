@@ -3,7 +3,7 @@
 cls_limit
 --------------------------
 
-**Command to set upper limit.**
+*Command to set upper limit.*
 
 A RooWorkspace file contains everything you need to perform a CLs limit setting.
 Therefore it will be the only input file.
